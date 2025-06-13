@@ -1,0 +1,6 @@
+@yukumyolda.WebApi_HostAddress = http://localhost:5093
+
+GET {{yukumyolda.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
